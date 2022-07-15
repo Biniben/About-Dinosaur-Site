@@ -1,0 +1,71 @@
+body {
+    background: lightgray;
+    
+    border: 20px solid white;
+    margin: 0px;
+}
+
+.h1-dino {
+    font-size: 64px;
+    font-family: fantasy;
+}
+
+.h2-dino {
+    font-size: 40px;
+}
+
+.h3-dino {
+    font-size: 32px;
+}
+
+header {
+    background: #3d5c5c;
+    color: white;
+    text-align: center;
+    
+    height: 150px;
+    
+    margin: 0px;
+    padding: 10px;
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+    text-indent: 25px;
+    text-align: justify;
+}
+
+img {
+    width: 100%;
+}
+
+main {
+    background: #4080bf;
+    color: white;
+    
+    width: 80%;
+    
+    margin: 20px 0px;
+    border: 10px solid black;
+    border-radius: 20px;
+    padding: 25px;
+}
+
+footer {
+    background: #132639;
+    color: white;
+    font-family: fantasy;
+    
+    margin: 0px;
+    padding: 10px;
+}
+
+.p-footer {
+    text-align: justify;
+}
+
+.author {
+    color: skyblue ;
+    font-size: 18px;
+}
